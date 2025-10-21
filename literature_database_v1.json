@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Two Agency-Cost Explanations of Dividends",
+    "authors": [
+      {
+        "first_name": "Frank H.",
+        "last_name": "Easterbrook"
+      }
+    ],
+    "year": "1984",
+    "journal": "American Economic Review",
+    "link": "https://www.jstor.org/stable/1805130",
+    "citations": "8000+",
+    "countries_covered": [
+      "United States"
+    ],
+    "author_affiliations": [
+      "University of Chicago Law School"
+    ],
+    "national_culture_frameworks": [],
+    "themes": [
+      "Agency Costs",
+      "Dividend Policy",
+      "Monitoring",
+      "Risk Aversion"
+    ],
+    "theories": [
+      "Agency Theory"
+    ],
+    "methodology": "Theoretical argumentation based on agency costs and capital market behavior",
+    "dependent_variables": [
+      "Dividend Policy"
+    ],
+    "independent_variables": [
+      "Agency Costs",
+      "Capital Market Access",
+      "Risk Preferences"
+    ],
+    "main_findings": "Proposes two agency-cost-based explanations: dividends reduce monitoring costs and align managerial risk aversion with shareholder interests by forcing capital market discipline."
+  },
+  {
+    "title": "Dividend policy and the earned/contributed capital mix: a test of the life-cycle theory",
+    "authors": [
+      {
+        "first_name": "Harry",
+        "last_name": "DeAngelo"
+      },
+      {
+        "first_name": "Linda",
+        "last_name": "DeAngelo"
+      },
+      {
+        "first_name": "Ren\u00e9 M.",
+        "last_name": "Stulz"
+      }
+    ],
+    "year": "2006",
+    "journal": "Journal of Financial Economics",
+    "link": "https://doi.org/10.1016/j.jfineco.2005.07.005",
+    "citations": "5000+",
+    "countries_covered": [
+      "United States"
+    ],
+    "author_affiliations": [
+      "University of Southern California",
+      "Ohio State University",
+      "NBER"
+    ],
+    "national_culture_frameworks": [],
+    "themes": [
+      "Life-Cycle Theory",
+      "Dividend Policy",
+      "Retained Earnings"
+    ],
+    "theories": [
+      "Life-Cycle Theory",
+      "Agency Theory"
+    ],
+    "methodology": "Logit regression on large panel dataset (CRSP/Compustat) from 1973\u20132002",
+    "dependent_variables": [
+      "Dividend Payout",
+      "Dividend Initiations and Omissions"
+    ],
+    "independent_variables": [
+      "Retained Earnings/Total Equity",
+      "Firm Size",
+      "Profitability",
+      "Growth",
+      "Cash"
+    ],
+    "main_findings": "Firms with high retained earnings are more likely to pay dividends; earned/contributed capital mix better predicts dividends than profitability or growth."
+  },
+  {
+    "title": "Corporate Governance and Dividend Policy: Shareholders Protection or Expropriation?",
+    "authors": [
+      {
+        "first_name": "Adel",
+        "last_name": "Adjaoud"
+      },
+      {
+        "first_name": "Walid",
+        "last_name": "Ben-Amar"
+      },
+      {
+        "first_name": "Tarek",
+        "last_name": "Saadi"
+      }
+    ],
+    "year": "2010",
+    "journal": "Journal of Business Finance & Accounting",
+    "link": "",
+    "citations": "200+",
+    "countries_covered": [
+      "Canada"
+    ],
+    "author_affiliations": [
+      "University of Ottawa",
+      "Universit\u00e9 Laval"
+    ],
+    "national_culture_frameworks": [],
+    "themes": [
+      "Corporate Governance",
+      "Dividend Policy",
+      "Minority Shareholder Rights"
+    ],
+    "theories": [
+      "Agency Theory",
+      "Entrenchment Hypothesis"
+    ],
+    "methodology": "Empirical panel regression using governance scores and firm data",
+    "dependent_variables": [
+      "Dividend Payout"
+    ],
+    "independent_variables": [
+      "Board Composition",
+      "Ownership Concentration",
+      "Governance Index"
+    ],
+    "main_findings": "Firms with stronger governance mechanisms pay higher dividends; governance acts as a tool to mitigate expropriation."
+  },
+  {
+    "title": "Dividend policy, creditor rights, and the agency costs of debt",
+    "authors": [
+      {
+        "first_name": "Rafael",
+        "last_name": "La Porta"
+      },
+      {
+        "first_name": "Florencio",
+        "last_name": "Lopez-de-Silanes"
+      },
+      {
+        "first_name": "Andrei",
+        "last_name": "Shleifer"
+      },
+      {
+        "first_name": "Robert",
+        "last_name": "Vishny"
+      }
+    ],
+    "year": "2000",
+    "journal": "Journal of Financial Economics",
+    "link": "",
+    "citations": "6000+",
+    "countries_covered": [
+      "33 countries"
+    ],
+    "author_affiliations": [
+      "Harvard University",
+      "Yale",
+      "World Bank"
+    ],
+    "national_culture_frameworks": [
+      "Legal Origin"
+    ],
+    "themes": [
+      "Creditor Rights",
+      "Dividends",
+      "Legal Systems",
+      "Agency Costs"
+    ],
+    "theories": [
+      "Law and Finance",
+      "Agency Theory"
+    ],
+    "methodology": "Cross-country regression on dividend payouts and creditor rights index",
+    "dependent_variables": [
+      "Dividend Payout Ratio"
+    ],
+    "independent_variables": [
+      "Creditor Rights",
+      "Legal Origin",
+      "Ownership Concentration"
+    ],
+    "main_findings": "Firms in countries with strong creditor rights pay lower dividends, consistent with lower agency costs of debt."
+  },
+  {
+    "title": "The Law and Economics of Self-Dealing",
+    "authors": [
+      {
+        "first_name": "Simeon",
+        "last_name": "Djankov"
+      },
+      {
+        "first_name": "Rafael",
+        "last_name": "La Porta"
+      },
+      {
+        "first_name": "Florencio",
+        "last_name": "Lopez-de-Silanes"
+      },
+      {
+        "first_name": "Andrei",
+        "last_name": "Shleifer"
+      }
+    ],
+    "year": "2008",
+    "journal": "Journal of Financial Economics",
+    "link": "",
+    "citations": "3000+",
+    "countries_covered": [
+      "72 countries"
+    ],
+    "author_affiliations": [
+      "World Bank",
+      "Harvard University",
+      "Yale"
+    ],
+    "national_culture_frameworks": [
+      "Legal Origin"
+    ],
+    "themes": [
+      "Corporate Governance",
+      "Self-Dealing",
+      "Shareholder Protection"
+    ],
+    "theories": [
+      "Law and Finance"
+    ],
+    "methodology": "Comparative legal index construction and empirical regression analysis",
+    "dependent_variables": [
+      "Self-Dealing Index",
+      "Investor Protection Score"
+    ],
+    "independent_variables": [
+      "Legal Origin",
+      "Enforcement Strength",
+      "Disclosure Requirements"
+    ],
+    "main_findings": "Countries with stronger laws and enforcement mechanisms have less self-dealing and higher investor protection."
+  }
+]
